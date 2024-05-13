@@ -1,0 +1,21 @@
+@First.WebAPI_HostAddress = http://localhost:5217
+
+GET https://localhost:7158/api/Test/Read?age=10&name=asd
+
+###
+
+
+POST https://localhost:7158/api/Test/Create?age=10
+Accept: application/json
+Content-Type: application/json
+
+{
+  "user": {
+    "email": "string",
+    "password": "string"
+  },
+  "product": {
+    "name": "string"
+  }
+}
+###

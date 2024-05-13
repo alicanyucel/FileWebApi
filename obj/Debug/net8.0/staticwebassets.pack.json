@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\avatars\\133599300185916027-fullstackbootcamp2.jpg",
+      "PackagePath": "staticwebassets\\avatars\\133599300185916027-fullstackbootcamp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\avatars\\133599308479004627-fullstackbootcamp2.jpg",
+      "PackagePath": "staticwebassets\\avatars\\133599308479004627-fullstackbootcamp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599300185940810-fullstackbootcamp1.jpg",
+      "PackagePath": "staticwebassets\\images\\133599300185940810-fullstackbootcamp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599300185950751-fullstackbootcamp3.jpg",
+      "PackagePath": "staticwebassets\\images\\133599300185950751-fullstackbootcamp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599300185962640-fullstackbootcamp2.jpg",
+      "PackagePath": "staticwebassets\\images\\133599300185962640-fullstackbootcamp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599300185977649-netbootcamp3.jpg",
+      "PackagePath": "staticwebassets\\images\\133599300185977649-netbootcamp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599308479056478-fullstackbootcamp3.jpg",
+      "PackagePath": "staticwebassets\\images\\133599308479056478-fullstackbootcamp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599308479069942-netbootcamp2.jpg",
+      "PackagePath": "staticwebassets\\images\\133599308479069942-netbootcamp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Can\\Source\\Repos\\InspimoFullstackDeveloperBootcampAliCan\\.NET\\First.WebAPI\\wwwroot\\images\\133599308479085401-netbootcamp3.jpg",
+      "PackagePath": "staticwebassets\\images\\133599308479085401-netbootcamp3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.First.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.First.WebAPI.props",
+      "PackagePath": "build\\First.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.First.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\First.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.First.WebAPI.props",
+      "PackagePath": "buildTransitive\\First.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
